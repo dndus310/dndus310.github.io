@@ -104,12 +104,12 @@ author:
   name             : "ChoWooYeon"
   avatar           : "/assets/Images/avatar.png"
   bio              : "200% 노력하기."
-  location         : "경기도 성남"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto: dndus310@gmail.com
+      url: mailto:dndus310@gmail.com
     - label: "Website"
        icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/dndus310"
+      # url: "https://github.com/dndus310"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
